@@ -1,0 +1,10 @@
+.settings
+.project
+.classpath
+.springBeans
+.idea
+*.iml
+*.ipr
+*.iws
+/atlassian-ide-plugin.xml
+target
